@@ -16,3 +16,5 @@ Here are two more pages. One page is the 'about page' and one page is the 'conta
 --This front-end-based e-commerce website is a React application built with React-Bootstrap, ReactRouting, and a simulated API for data management.
 --This application offers seamless product browsing, sorting, and cart management.
 --Developing this application using a simulated API presented challenges, particularly when persisting data to local storage.
+
+New PR
